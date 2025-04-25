@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mariasalomecassinda
+- 👋 Hi, I’m Riquelme MSC
 - 🌱Learning "Technology"
 - 👩‍💻Informatics
 
